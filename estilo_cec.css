@@ -1,0 +1,105 @@
+@font-face {
+    font-family:"comicbook";
+    src: url("fontes/Comic Book.otf") format("opentype");
+}
+body {
+    font-family:"comicbook";
+    background-color: rgb(192, 0, 0);
+    background-image: url(fundo_n2.png);
+    background-repeat: repeat;
+    background-size: 100%;
+    background-position: center center;
+}
+.quadrinho {
+    border: 6px solid black;
+    background-color: white;
+    margin: 15px;
+    padding: auto;
+}
+p {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family: "comicbook";
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: "comicbook";
+}
+h1:hover{
+    color:rgb(255, 187, 0);
+}
+h4{
+    color: rgb(255, 251, 0);
+    font-size: 45px;
+    font-family: "comicbook";
+    text-align: center;
+    padding-top: 25px;
+}
+h3{
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+    font-family: "comicbook";
+    text-align: center;
+}
+h3:hover{
+    color:rgb(255, 187, 0);
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    width: 40px;
+}
+
+input[type="checkbox"]{
+    display: none;
+}
+
+nav{
+    background-color: rgba(16,16,16,.5);
+    width: 350px;
+    height: 100%;
+    left: -350px;
+    position: absolute;
+    transition: all .5s;
+}
+
+a{
+    display: block;
+    padding: 20px 5px;
+    color: white;
+}
+
+a:hover{
+    background-color: rgb(255, 187, 0);
+    color:black;
+}
+
+label{
+    padding: 15px;
+    position: absolute;
+    z-index: 1;
+}
+
+ul{
+    top: 70px;
+    position: absolute;
+    width: 100%;
+}
+
+input[type="checkbox"]:checked ~ nav{
+    transform: translateX(350px);
+}
