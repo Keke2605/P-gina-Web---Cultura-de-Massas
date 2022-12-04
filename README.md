@@ -18,4 +18,5 @@
 
 # :blush: Autores
 
-| [<img src="https://web.whatsapp.com/68407e18-c554-4194-be46-39056a81281b" width=115><br><sub>Kézia Alves</sub>](https://github.com/Keke2605)
+| [<img src="https://user-images.githubusercontent.com/98348012/205515078-8fbc6d35-d9bc-46d7-9ea2-4627bcf9c350.jpeg" width=115><br><sub>Kézia Alves</sub>](https://github.com/Keke2605)
+| :---: |
