@@ -16,3 +16,6 @@
 - `HTML`
 - `CSS`
 
+# :blush: Autores
+
+| [<img src="https://web.whatsapp.com/68407e18-c554-4194-be46-39056a81281b" width=115><br><sub>Kézia Alves</sub>](https://github.com/Keke2605)
