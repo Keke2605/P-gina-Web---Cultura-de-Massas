@@ -21,5 +21,9 @@
 | [<img src="https://user-images.githubusercontent.com/98348012/205515078-8fbc6d35-d9bc-46d7-9ea2-4627bcf9c350.jpeg" width=115><br><sub>Kézia Alves</sub>](https://github.com/Keke2605)
 | :---: |
 
+| [<img src="https://user-images.githubusercontent.com/98348012/205515949-12f8c4bd-457e-4d25-bbd9-81fe6418bdd0.png" width=115><br><sub>Gustavo Martinho</sub>](https://github.com/CopperCommet)
+| :---: |
+
+
 
 
